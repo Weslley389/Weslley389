@@ -19,9 +19,9 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://>
-  <a href="https://www.instagram.com/wes_rdg
-  <a href="https://github.com/Weslley389> 
+  <a href="https:// https://img.shields.io/youtube/channel/subscribers/wes_rdg?style=social
+  <a href="https://
+  <a href="https://
  
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
