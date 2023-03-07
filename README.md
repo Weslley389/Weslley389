@@ -20,7 +20,7 @@
  
 <div> 
   <a href="https:// https://img.shields.io/youtube/channel/subscribers/wes_rdg?style=social
-  <a href="https://
+  <a href="https:// https://www.youtube.com/channel/UCbyfWSd2g86QBZI4pZtPUuQ
   <a href="https://
  
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
